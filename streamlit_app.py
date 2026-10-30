@@ -231,7 +231,7 @@ elif page == "About the Project":
         "- External and local validation would be required before any real-world clinical use."
     )
     st.markdown("### Team")
-    st.write("Group 6 — add the approved names and roles of all group members here before publishing the final version.")
+    st.write("Group 6 — Yusuf Yunusa - AI/ML Engineer, Gabriel Olatunji Olaogun, Sheba simeon, Gift Kuyeti Victor, Ubaidat Adeola Olasunkanmi")
 
 # ---------------------------- FOOTER ----------------------------
 st.markdown("---")
