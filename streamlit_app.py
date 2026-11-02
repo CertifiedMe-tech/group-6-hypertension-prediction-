@@ -230,7 +230,7 @@ elif page == "About the Project":
         "- Model outputs should not be used to make healthcare decisions.\n"
         "- External and local validation would be required before any real-world clinical use. \n"
         "- The data is from 2017–2018, so it may not match how people live and what their health looks like today.\n"
-        "- Things like diet, salt, sleep, family history, kidney disease and diabetes are not in our data. So the model can only show what goes along with high blood pressure, not what causes it. /n"
+        "- Things like diet, salt, sleep, family history, kidney disease and diabetes are not in our data. So the model can only show what goes along with high blood pressure, not what causes it."
     )
     st.markdown("### Team")
     st.write("Group 6 — Yusuf Yunusa - AI/ML Engineer, Gabriel Olatunji Olaogun, Sheba simeon, Gift Kuyeti Victor, Ubaidat Adeola Olasunkanmi")
